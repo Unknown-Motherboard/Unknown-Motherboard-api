@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Unkown.Motherboard.Domain.Catalog;
+using System.Collections.Generic;
 
 namespace Unkown.Motherboard.Api.Controllers
 {
@@ -10,7 +11,13 @@ namespace Unkown.Motherboard.Api.Controllers
         [HttpGet]
         public IActionResult GetItems()
         {
-            return Ok("Hello World");
+            var items = new List<Item>()
+            {
+                new Item("Shirt", "Ohio State shirt.", "Nike", 29.99m),
+                new Item("Shorts", "Ohio State shorts.", "Nike", 44.99m)
+            };
+
+            return Ok(items);
         }
     }
     
