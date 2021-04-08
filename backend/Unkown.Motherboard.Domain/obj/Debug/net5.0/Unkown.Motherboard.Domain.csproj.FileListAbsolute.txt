@@ -10,3 +10,15 @@
 /Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/Unkown.Motherboard.Domain.dll
 /Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/ref/Unkown.Motherboard.Domain.dll
 /Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/Unkown.Motherboard.Domain.pdb
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.csprojAssemblyReference.cache
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.AssemblyInfoInputs.cache
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.AssemblyInfo.cs
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.dll
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\ref\Unkown.Motherboard.Domain.dll
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.pdb
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\bin\Debug\net5.0\Unkown.Motherboard.Domain.deps.json
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\bin\Debug\net5.0\Unkown.Motherboard.Domain.dll
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\bin\Debug\net5.0\ref\Unkown.Motherboard.Domain.dll
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\bin\Debug\net5.0\Unkown.Motherboard.Domain.pdb

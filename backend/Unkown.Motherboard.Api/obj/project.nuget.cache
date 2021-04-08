@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "aTPFn25cYfrk2qmY6GAXZzk6Vh3Cg2TTJtKcFbh9PVveZIMj+UIPvLkUydO6XCRkeeATgCJy0rTtOqJoX7C5Aw==",
+  "dgSpecHash": "Q3ba69w3tKuCcAKcKcxY/ZdJ0FdMCQ9qXQAv4FdglgpWbdBQadownOGn6cv88AZtd6UdaL+LwFvpHE2KGIkMkg==",
   "success": true,
-  "projectFilePath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Api/Unkown.Motherboard.Api.csproj",
+  "projectFilePath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Api\\Unkown.Motherboard.Api.csproj",
   "expectedPackageFiles": [
-    "/Users/matthewmacrides/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/matthewmacrides/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/matthewmacrides/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "/Users/matthewmacrides/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "/Users/matthewmacrides/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/Users/matthewmacrides/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\Griff\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Griff\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Griff\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Griff\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Griff\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Griff\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }
