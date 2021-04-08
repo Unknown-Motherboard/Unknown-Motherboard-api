@@ -209,19 +209,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/matthewmacrides/.nuget/packages/": {}
+    "C:\\Users\\Griff\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Api/Unkown.Motherboard.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Api\\Unkown.Motherboard.Api.csproj",
       "projectName": "Unkown.Motherboard.Api",
-      "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Api/Unkown.Motherboard.Api.csproj",
-      "packagesPath": "/Users/matthewmacrides/.nuget/packages/",
-      "outputPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Api/obj/",
+      "projectPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Api\\Unkown.Motherboard.Api.csproj",
+      "packagesPath": "C:\\Users\\Griff\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/matthewmacrides/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Griff\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -233,8 +233,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/Unkown.Motherboard.Domain.csproj": {
-              "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/Unkown.Motherboard.Domain.csproj"
+            "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Domain\\Unkown.Motherboard.Domain.csproj": {
+              "projectPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Domain\\Unkown.Motherboard.Domain.csproj"
             }
           }
         }
@@ -272,7 +272,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

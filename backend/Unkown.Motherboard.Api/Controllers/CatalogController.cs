@@ -1,23 +1,17 @@
 using Microsoft.AspNetCore.Mvc;
-using Jet.Piranha.Domain.Catalog;
+using Unkown.Motherboard.Domain.Catalog;
 
-namespace Jet.Piranha.Api.Controllers
+namespace Unkown.Motherboard.Api.Controllers
 {
     [ApiController]
-    [Route(*[controller]*)]
+    [Route("[controller]")]
     public class CatalogController : ControllerBase
     {
-
-    }
-    [HttpGet]
-    public IActionResult GetItems()
-    {
-        var items = new List<Item>()
+        [HttpGet]
+        public IActionResult GetItems()
         {
-            new Item("Shirt", "Ohio State shirt.", "Nike", 29.99m)
-            new Item("Shorts", "Ohio State shorts.", "Nike", 44.99m)
-        };
-
-        return Ok(items);
+            return Ok("Hello World");
+        }
     }
+    
 }

@@ -8,9 +8,9 @@ namespace Unkown.Motherboard.Domain.Catalog
         public int Id {get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        public string Brand { get; set}
+        public string Brand { get; set; }
         public decimal Price {get; set;}
-        public List<Rating> Ratings {get; set }
+        public List<Rating> Ratings {get; set; }
 
         public Item(string name, string description, string brand, decimal price)
         {
@@ -21,17 +21,17 @@ namespace Unkown.Motherboard.Domain.Catalog
 
             if(string.IsNullOrEmpty(description))
             {
-                throw new ArgumentException("Item description cannot be null.")
+                throw new ArgumentException("Item description cannot be null.");
             }
 
             if(string.IsNullOrEmpty(brand))
             {
-                throw new ArgumentException("Item brand cannot be null.")
+                throw new ArgumentException("Item brand cannot be null.");
             }
 
             if(price < 0.00m || price > 1000.00m)
             {
-                throw new ArgumentException("Item price must be a positive amount less than $10000.00")
+                throw new ArgumentException("Item price must be a positive amount less than $10000.00");
             }
 
             this.Name = name;

@@ -17,11 +17,12 @@ namespace Unkown.Motherboard.Domain.Catalog
 
             if(string.IsNullOrEmpty(username))
             {
-                THROW NEW ArgumentException("UserName cannot be null.")
+                throw new ArgumentException("UserName cannot be null.");
             }
 
             this.Star = stars;
             this.UserName = username;
             this.Review = review;
     }
+}
 }
