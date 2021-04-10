@@ -44,6 +44,7 @@ namespace Unkown.Motherboard.Api.Controllers
             item.AddRating(rating);
 
             return Ok(item);
+        }
         
         [HttpPut("{id:int}")]
         public IActionResult(int id, [FromBody] Item item)
@@ -56,7 +57,7 @@ namespace Unkown.Motherboard.Api.Controllers
         {
             return Ok();
         }
-        
+
     }
     
 }
