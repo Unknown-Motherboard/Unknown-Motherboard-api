@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Unknown.Motherboard.Domain/1.0.0": {
+        "runtime": {
+          "Unknown.Motherboard.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unknown.Motherboard.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
