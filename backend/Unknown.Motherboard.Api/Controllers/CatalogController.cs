@@ -8,6 +8,13 @@ namespace Unkown.Motherboard.Api.Controllers
     [Route("[controller]")]
     public class CatalogController : ControllerBase
     {
+        private readonly StoreContext _db;
+
+        public CatalogController(StoreContext db)
+        {
+            _db = db;
+        }
+
         [HttpGet]
         public IActionResult GetItems()
         {
@@ -17,7 +24,7 @@ namespace Unkown.Motherboard.Api.Controllers
                 new Item("Shorts", "Ohio State shorts.", "Nike", 44.99m)
             };
 
-            return Ok(items);
+            return Ok(_db.Items);
         }
 
         [HttpGet("{id:int}")]
