@@ -1,0 +1,15 @@
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.csprojAssemblyReference.cache
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.AssemblyInfoInputs.cache
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.AssemblyInfo.cs
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.csproj.CoreCompileInputs.cache
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/bin/Debug/net5.0/Unknown.Motherboard.Data.deps.json
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/bin/Debug/net5.0/Unknown.Motherboard.Data.dll
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/bin/Debug/net5.0/ref/Unknown.Motherboard.Data.dll
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/bin/Debug/net5.0/Unknown.Motherboard.Data.pdb
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/bin/Debug/net5.0/Unknown.Motherboard.Domain.dll
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/bin/Debug/net5.0/Unknown.Motherboard.Domain.pdb
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.csproj.CopyComplete
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.dll
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/ref/Unknown.Motherboard.Data.dll
+/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.pdb
