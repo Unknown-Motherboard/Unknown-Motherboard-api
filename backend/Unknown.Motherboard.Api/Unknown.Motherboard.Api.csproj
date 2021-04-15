@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Unkown.Motherboard.Domain\Unkown.Motherboard.Domain.csproj" />
+    <ProjectReference Include="..\Unknown.Motherboard.Data\Unknown.Motherboard.Data.csproj" />
   </ItemGroup>
 
 </Project>
