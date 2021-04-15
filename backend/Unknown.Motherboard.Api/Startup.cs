@@ -26,6 +26,9 @@ namespace Unkown.Motherboard.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            object p = services.AddDbContext<StoreContext>(opt =>
+                opt.UseSqlite(Configuration.GetConnectionString("LocalDb"),
+                b => b.MigrationAssembly("Unknown.Motherboard.Api")));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
