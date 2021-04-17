@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj": {}
+    "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj": {}
   },
   "projects": {
-    "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj": {
+    "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj",
+        "projectUniqueName": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj",
         "projectName": "Unknown.Motherboard.Api",
-        "projectPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj",
-        "packagesPath": "/Users/mattfogarty/.nuget/packages/",
-        "outputPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/obj/",
+        "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj",
+        "packagesPath": "/Users/matthewmacrides/.nuget/packages/",
+        "outputPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mattfogarty/.nuget/NuGet/NuGet.Config"
+          "/Users/matthewmacrides/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj": {
-                "projectPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj"
+              "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj": {
+                "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj"
               }
             }
           }
@@ -42,9 +42,23 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -73,17 +87,17 @@
         }
       }
     },
-    "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj": {
+    "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
+        "projectUniqueName": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
         "projectName": "Unknown.Motherboard.Data",
-        "projectPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
-        "packagesPath": "/Users/mattfogarty/.nuget/packages/",
-        "outputPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/",
+        "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
+        "packagesPath": "/Users/matthewmacrides/.nuget/packages/",
+        "outputPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mattfogarty/.nuget/NuGet/NuGet.Config"
+          "/Users/matthewmacrides/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -95,8 +109,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj": {
-                "projectPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj"
+              "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj": {
+                "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj"
               }
             }
           }
@@ -110,6 +124,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -129,17 +149,17 @@
         }
       }
     },
-    "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj": {
+    "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
+        "projectUniqueName": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
         "projectName": "Unknown.Motherboard.Domain",
-        "projectPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
-        "packagesPath": "/Users/mattfogarty/.nuget/packages/",
-        "outputPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/",
+        "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
+        "packagesPath": "/Users/matthewmacrides/.nuget/packages/",
+        "outputPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mattfogarty/.nuget/NuGet/NuGet.Config"
+          "/Users/matthewmacrides/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

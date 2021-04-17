@@ -13,3 +13,6 @@
 /Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.dll
 /Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/ref/Unknown.Motherboard.Data.dll
 /Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.pdb
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.dll
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/ref/Unknown.Motherboard.Data.dll
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.pdb

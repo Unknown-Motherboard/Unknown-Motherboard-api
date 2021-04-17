@@ -9,5 +9,7 @@ namespace Unknown.Motherboard.Data
         { }
 
         public DbSet<Item> Items { get; set; }
+
+        public DbSet<Item> Orders {get; set;}
     }
 }
