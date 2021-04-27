@@ -22,7 +22,7 @@ namespace Unknown.Motherboard.Domain.Tests
             Assert.AreEqual(10.00m, item.Price);
         }
 
-        [TestMethod]
+        //[TestMethod]
         public void Can_Create_Add_Rating()
         {
             // Arrange
