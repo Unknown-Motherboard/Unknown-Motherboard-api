@@ -31,3 +31,18 @@
 /Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.dll
 /Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/ref/Unknown.Motherboard.Data.dll
 /Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/Debug/net5.0/Unknown.Motherboard.Data.pdb
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\bin\Debug\net5.0\Unknown.Motherboard.Data.deps.json
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\bin\Debug\net5.0\Unknown.Motherboard.Data.dll
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\bin\Debug\net5.0\ref\Unknown.Motherboard.Data.dll
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\bin\Debug\net5.0\Unknown.Motherboard.Data.pdb
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\bin\Debug\net5.0\Unknown.Motherboard.Domain.dll
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\bin\Debug\net5.0\Unknown.Motherboard.Domain.pdb
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\obj\Debug\net5.0\Unknown.Motherboard.Data.csprojAssemblyReference.cache
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\obj\Debug\net5.0\Unknown.Motherboard.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\obj\Debug\net5.0\Unknown.Motherboard.Data.AssemblyInfoInputs.cache
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\obj\Debug\net5.0\Unknown.Motherboard.Data.AssemblyInfo.cs
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\obj\Debug\net5.0\Unknown.Motherboard.Data.csproj.CoreCompileInputs.cache
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\obj\Debug\net5.0\Unknown.Motherboard.Data.csproj.CopyComplete
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\obj\Debug\net5.0\Unknown.Motherboard.Data.dll
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\obj\Debug\net5.0\ref\Unknown.Motherboard.Data.dll
+C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unknown.Motherboard.Data\obj\Debug\net5.0\Unknown.Motherboard.Data.pdb

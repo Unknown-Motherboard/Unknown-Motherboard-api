@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/mattfogarty/.nuget/packages/": {}
+    "C:\\Users\\Griff\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Domain\\Unknown.Motherboard.Domain.csproj",
       "projectName": "Unknown.Motherboard.Domain",
-      "projectPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
-      "packagesPath": "/Users/mattfogarty/.nuget/packages/",
-      "outputPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/",
+      "projectPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Domain\\Unknown.Motherboard.Domain.csproj",
+      "packagesPath": "C:\\Users\\Griff\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mattfogarty/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Griff\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

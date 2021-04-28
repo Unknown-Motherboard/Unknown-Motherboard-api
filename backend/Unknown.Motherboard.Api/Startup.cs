@@ -32,6 +32,13 @@ namespace Unknown.Motherboard.Api
                 opt.UseSqlite(Configuration.GetConnectionString("LocalDb"),
                 b => b.MigrationsAssembly("Unknown.Motherboard.Api")));
 
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(builder =>
+                {
+                    builder.WithOrigins("*");
+                });
+            });
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -50,6 +57,8 @@ namespace Unknown.Motherboard.Api
             }
 
             app.UseHttpsRedirection();
+
+            app.UseCors();
 
             app.UseRouting();
 

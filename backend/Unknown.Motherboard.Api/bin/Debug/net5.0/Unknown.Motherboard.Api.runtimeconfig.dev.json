@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/mattfogarty/.dotnet/store/|arch|/|tfm|",
-      "/Users/mattfogarty/.nuget/packages"
+      "C:\\Users\\Griff\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Griff\\.nuget\\packages"
     ]
   }
 }
