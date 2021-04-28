@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4A+U0/PVaAFj0HJa9w6oQsYYoDoW2QZRHiy8I5F84vChZOw5Dz53f6KSwEuplY37zKpHWAC24yx+4Rh23olFzw==",
+  "dgSpecHash": "hFvcqFT7i+agMyDT8Jm/TXX0Khx8s/sVmFZ2q18WRoaPgIJWe0+aibX+ExtE+LiiJOCJXk60i3E2L0t5fzPI5Q==",
   "success": true,
-  "projectFilePath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
+  "projectFilePath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
   "expectedPackageFiles": [
     "/Users/mattfogarty/.nuget/packages/microsoft.data.sqlite.core/5.0.5/microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "/Users/mattfogarty/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unkown.Motherboard.Api", "Unkown.Motherboard.Api\Unkown.Motherboard.Api.csproj", "{E17C1A8F-190C-424B-A518-B912EC0E03C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unknown.Motherboard.Api", "Unknown.Motherboard.Api\Unknown.Motherboard.Api.csproj", "{E17C1A8F-190C-424B-A518-B912EC0E03C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unkown.Motherboard.Domain", "Unkown.Motherboard.Domain\Unkown.Motherboard.Domain.csproj", "{35B03A4A-0EF0-45DE-903D-56F285BDFB45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unknown.Motherboard.Domain", "Unknown.Motherboard.Domain\Unknown.Motherboard.Domain.csproj", "{35B03A4A-0EF0-45DE-903D-56F285BDFB45}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unknown.Motherboard.Api", "Unknown.Motherboard.Api\Unknown.Motherboard.Api.csproj", "{5CB58222-1CCB-4F43-B6A5-D48C4E456976}"
 EndProject

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Unkown.Motherboard.Domain.Catalog
+namespace Unknown.Motherboard.Domain.Catalog
 {
     public class Item
     {

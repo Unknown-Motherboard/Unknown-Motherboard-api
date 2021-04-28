@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Unkown.Motherboard.Domain.Catalog;
+using Unknown.Motherboard.Domain.Catalog;
 
 namespace Unknown.Motherboard.Data
 {
@@ -10,6 +10,5 @@ namespace Unknown.Motherboard.Data
 
         public DbSet<Item> Items { get; set; }
 
-        public DbSet<Item> Orders {get; set;}
     }
 }

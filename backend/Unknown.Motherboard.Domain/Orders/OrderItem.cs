@@ -1,6 +1,6 @@
-using Unkown.Motherboard.Domain.Catalog;
+using Unknown.Motherboard.Domain.Catalog;
 
-namespace Unkown.Motherboard.Domain.Orders
+namespace Unknown.Motherboard.Domain.Orders
 {
     public class OrderItem
     {

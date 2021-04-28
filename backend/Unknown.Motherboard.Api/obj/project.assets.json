@@ -7647,23 +7647,24 @@
       "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.5",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
       "Swashbuckle.AspNetCore >= 5.6.3",
-      "Unknown.Motherboard.Data >= 1.0.0"
+      "Unknown.Motherboard.Data >= 1.0.0",
+      "Unknown.Motherboard.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "/Users/matthewmacrides/.nuget/packages/": {}
+    "/Users/mattfogarty/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj",
+      "projectUniqueName": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj",
       "projectName": "Unknown.Motherboard.Api",
-      "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj",
-      "packagesPath": "/Users/matthewmacrides/.nuget/packages/",
-      "outputPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/obj/",
+      "projectPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/Unknown.Motherboard.Api.csproj",
+      "packagesPath": "/Users/mattfogarty/.nuget/packages/",
+      "outputPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/matthewmacrides/.nuget/NuGet/NuGet.Config"
+        "/Users/mattfogarty/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -7675,8 +7676,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj": {
-              "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj"
+            "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj": {
+              "projectPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj"
+            },
+            "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj": {
+              "projectPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj"
             }
           }
         }

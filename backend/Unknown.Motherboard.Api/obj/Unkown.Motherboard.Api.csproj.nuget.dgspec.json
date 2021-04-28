@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Api\\Unkown.Motherboard.Api.csproj": {}
+    "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Api\\Unknown.Motherboard.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Api\\Unkown.Motherboard.Api.csproj": {
+    "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Api\\Unknown.Motherboard.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Api\\Unkown.Motherboard.Api.csproj",
-        "projectName": "Unkown.Motherboard.Api",
-        "projectPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Api\\Unkown.Motherboard.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Api\\Unknown.Motherboard.Api.csproj",
+        "projectName": "Unknown.Motherboard.Api",
+        "projectPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Api\\Unknown.Motherboard.Api.csproj",
         "packagesPath": "C:\\Users\\Griff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Api\\obj\\",
+        "outputPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Griff\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Domain\\Unkown.Motherboard.Domain.csproj": {
-                "projectPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Domain\\Unkown.Motherboard.Domain.csproj"
+              "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Domain\\Unknown.Motherboard.Domain.csproj": {
+                "projectPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Domain\\Unknown.Motherboard.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Domain\\Unkown.Motherboard.Domain.csproj": {
+    "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Domain\\Unknown.Motherboard.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Domain\\Unkown.Motherboard.Domain.csproj",
-        "projectName": "Unkown.Motherboard.Domain",
-        "projectPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Domain\\Unkown.Motherboard.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Domain\\Unknown.Motherboard.Domain.csproj",
+        "projectName": "Unknown.Motherboard.Domain",
+        "projectPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Domain\\Unknown.Motherboard.Domain.csproj",
         "packagesPath": "C:\\Users\\Griff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unkown.Motherboard.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Griff\\OneDrive\\Documents\\Unknown-Motherboard\\Unknown-Motherboard-api\\backend\\Unknown.Motherboard.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Griff\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -4,10 +4,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Unknown.Motherboard.Data;
 
-namespace Unkown.Motherboard.Api
+namespace Unknown.Motherboard.Api
 {
     public class Program
     {
@@ -27,7 +29,7 @@ namespace Unkown.Motherboard.Api
                 }
                 catch (Exception ex)
                 {
-                    logger.logError(ex, "Error occured creating the database.");
+                    logger.LogError(ex, "Error occured creating the database.");
                 }
             }
         }

@@ -958,11 +958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
+      "projectUniqueName": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
       "projectName": "Unknown.Motherboard.Data",
-      "projectPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
+      "projectPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/Unknown.Motherboard.Data.csproj",
       "packagesPath": "/Users/mattfogarty/.nuget/packages/",
-      "outputPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/",
+      "outputPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mattfogarty/.nuget/NuGet/NuGet.Config"
@@ -977,8 +977,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj": {
-              "projectPath": "/Users/mattfogarty/3610 Lab 5/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj"
+            "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj": {
+              "projectPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj"
             }
           }
         }

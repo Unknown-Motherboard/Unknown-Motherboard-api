@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/matthewmacrides/.nuget/packages/": {}
+    "/Users/mattfogarty/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
+      "projectUniqueName": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
       "projectName": "Unknown.Motherboard.Domain",
-      "projectPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
-      "packagesPath": "/Users/matthewmacrides/.nuget/packages/",
-      "outputPath": "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/",
+      "projectPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Unknown.Motherboard.Domain.csproj",
+      "packagesPath": "/Users/mattfogarty/.nuget/packages/",
+      "outputPath": "/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/matthewmacrides/.nuget/NuGet/NuGet.Config"
+        "/Users/mattfogarty/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

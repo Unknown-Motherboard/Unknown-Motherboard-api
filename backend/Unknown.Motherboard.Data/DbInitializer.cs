@@ -1,4 +1,4 @@
-using Unkown.Motherboard.Domain.Catalog;
+using Unknown.Motherboard.Domain.Catalog;
 using Microsoft.Extensions.Logging;
 using System.Linq;
 
