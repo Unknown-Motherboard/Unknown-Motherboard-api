@@ -22,3 +22,15 @@
 /Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.dll
 /Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/ref/Unknown.Motherboard.Domain.dll
 /Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.pdb
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.deps.json
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.dll
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/ref/Unknown.Motherboard.Domain.dll
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.pdb
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.csprojAssemblyReference.cache
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.AssemblyInfoInputs.cache
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.AssemblyInfo.cs
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.csproj.CoreCompileInputs.cache
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.dll
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/ref/Unknown.Motherboard.Domain.dll
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.pdb

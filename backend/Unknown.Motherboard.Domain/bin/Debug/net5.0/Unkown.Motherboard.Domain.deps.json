@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Unkown.Motherboard.Domain/1.0.0": {
+      "Unknown.Motherboard.Domain/1.0.0": {
         "runtime": {
-          "Unkown.Motherboard.Domain.dll": {}
+          "Unknown.Motherboard.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Unkown.Motherboard.Domain/1.0.0": {
+    "Unknown.Motherboard.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

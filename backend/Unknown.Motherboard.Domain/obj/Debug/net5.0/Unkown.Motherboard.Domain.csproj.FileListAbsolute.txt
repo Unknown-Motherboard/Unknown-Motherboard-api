@@ -1,24 +1,36 @@
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/bin/Debug/net5.0/Unkown.Motherboard.Domain.deps.json
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/bin/Debug/net5.0/Unkown.Motherboard.Domain.dll
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/bin/Debug/net5.0/ref/Unkown.Motherboard.Domain.dll
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/bin/Debug/net5.0/Unkown.Motherboard.Domain.pdb
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/Unkown.Motherboard.Domain.csprojAssemblyReference.cache
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/Unkown.Motherboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/Unkown.Motherboard.Domain.AssemblyInfoInputs.cache
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/Unkown.Motherboard.Domain.AssemblyInfo.cs
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/Unkown.Motherboard.Domain.csproj.CoreCompileInputs.cache
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/Unkown.Motherboard.Domain.dll
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/ref/Unkown.Motherboard.Domain.dll
-/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unkown.Motherboard.Domain/obj/Debug/net5.0/Unkown.Motherboard.Domain.pdb
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.csprojAssemblyReference.cache
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.AssemblyInfoInputs.cache
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.AssemblyInfo.cs
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.dll
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\ref\Unkown.Motherboard.Domain.dll
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\obj\Debug\net5.0\Unkown.Motherboard.Domain.pdb
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\bin\Debug\net5.0\Unkown.Motherboard.Domain.deps.json
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\bin\Debug\net5.0\Unkown.Motherboard.Domain.dll
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\bin\Debug\net5.0\ref\Unkown.Motherboard.Domain.dll
-C:\Users\Griff\OneDrive\Documents\Unknown-Motherboard\Unknown-Motherboard-api\backend\Unkown.Motherboard.Domain\bin\Debug\net5.0\Unkown.Motherboard.Domain.pdb
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.deps.json
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.dll
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/ref/Unknown.Motherboard.Domain.dll
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.pdb
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.csprojAssemblyReference.cache
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.AssemblyInfoInputs.cache
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.AssemblyInfo.cs
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.csproj.CoreCompileInputs.cache
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.dll
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/ref/Unknown.Motherboard.Domain.dll
+/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.pdb
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.csprojAssemblyReference.cache
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.AssemblyInfoInputs.cache
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.AssemblyInfo.cs
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.csproj.CoreCompileInputs.cache
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.dll
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/ref/Unknown.Motherboard.Domain.dll
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.pdb
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.deps.json
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.dll
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/ref/Unknown.Motherboard.Domain.dll
+C:/Users/Griff/OneDrive/Documents/Unknown-Motherboard/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.pdb
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.deps.json
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.dll
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/ref/Unknown.Motherboard.Domain.dll
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/bin/Debug/net5.0/Unknown.Motherboard.Domain.pdb
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.csprojAssemblyReference.cache
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.AssemblyInfoInputs.cache
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.AssemblyInfo.cs
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.csproj.CoreCompileInputs.cache
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.dll
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/ref/Unknown.Motherboard.Domain.dll
+/Users/mattfogarty/3610 Lab 6/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/obj/Debug/net5.0/Unknown.Motherboard.Domain.pdb

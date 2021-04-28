@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using Unkown.Motherboard.Domain.Catalog;
+using Unknown.Motherboard.Domain.Catalog;
 
 namespace Unknown.Motherboard.Domain.Tests
 {

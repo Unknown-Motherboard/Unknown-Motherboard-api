@@ -1,13 +1,18 @@
 using System;
 
-namespace Unkown.Motherboard.Domain.Catalog
+namespace Unknown.Motherboard.Domain.Catalog
 {
     public class Rating
     {
+        
         public int Id { get; set; }
         public int Star { get; set;}
         public string UserName {get; set;}
         public string Review {get; set;}
+
+        public Rating (){
+            
+        }
 
         public Rating(int stars, string username, string review)
         {
@@ -24,6 +29,6 @@ namespace Unkown.Motherboard.Domain.Catalog
             this.Star = stars;
             this.UserName = username;
             this.Review = review;
+        }
     }
-}
 }

@@ -1,20 +1,20 @@
 {
   "Unknown.Motherboard.Domain.dll": {
     "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Orders/Order.cs": {
-      "Unkown.Motherboard.Domain.Orders.Order": {
-        "System.Int32 Unkown.Motherboard.Domain.Orders.Order::get_Id()": {
+      "Unknown.Motherboard.Domain.Orders.Order": {
+        "System.Int32 Unknown.Motherboard.Domain.Orders.Order::get_Id()": {
           "Lines": {
             "8": 0
           },
           "Branches": []
         },
-        "System.Collections.Generic.List`1<Unkown.Motherboard.Domain.Orders.OrderItem> Unkown.Motherboard.Domain.Orders.Order::get_Items()": {
+        "System.Collections.Generic.List`1<Unknown.Motherboard.Domain.Orders.OrderItem> Unknown.Motherboard.Domain.Orders.Order::get_Items()": {
           "Lines": {
             "9": 0
           },
           "Branches": []
         },
-        "System.Decimal Unkown.Motherboard.Domain.Orders.Order::get_TotalPrice()": {
+        "System.Decimal Unknown.Motherboard.Domain.Orders.Order::get_TotalPrice()": {
           "Lines": {
             "10": 0
           },
@@ -23,26 +23,26 @@
       }
     },
     "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Orders/OrderItem.cs": {
-      "Unkown.Motherboard.Domain.Orders.OrderItem": {
-        "System.Int32 Unkown.Motherboard.Domain.Orders.OrderItem::get_Id()": {
+      "Unknown.Motherboard.Domain.Orders.OrderItem": {
+        "System.Int32 Unknown.Motherboard.Domain.Orders.OrderItem::get_Id()": {
           "Lines": {
             "7": 0
           },
           "Branches": []
         },
-        "Unkown.Motherboard.Domain.Catalog.Item Unkown.Motherboard.Domain.Orders.OrderItem::get_Item()": {
+        "Unknown.Motherboard.Domain.Catalog.Item Unknown.Motherboard.Domain.Orders.OrderItem::get_Item()": {
           "Lines": {
             "8": 0
           },
           "Branches": []
         },
-        "System.Int32 Unkown.Motherboard.Domain.Orders.OrderItem::get_Quantity()": {
+        "System.Int32 Unknown.Motherboard.Domain.Orders.OrderItem::get_Quantity()": {
           "Lines": {
             "9": 0
           },
           "Branches": []
         },
-        "System.Decimal Unkown.Motherboard.Domain.Orders.OrderItem::get_Price()": {
+        "System.Decimal Unknown.Motherboard.Domain.Orders.OrderItem::get_Price()": {
           "Lines": {
             "10": 0
           },
@@ -51,44 +51,44 @@
       }
     },
     "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Catalog/Item.cs": {
-      "Unkown.Motherboard.Domain.Catalog.Item": {
-        "System.Int32 Unkown.Motherboard.Domain.Catalog.Item::get_Id()": {
+      "Unknown.Motherboard.Domain.Catalog.Item": {
+        "System.Int32 Unknown.Motherboard.Domain.Catalog.Item::get_Id()": {
           "Lines": {
             "8": 0
           },
           "Branches": []
         },
-        "System.String Unkown.Motherboard.Domain.Catalog.Item::get_Name()": {
+        "System.String Unknown.Motherboard.Domain.Catalog.Item::get_Name()": {
           "Lines": {
             "9": 2
           },
           "Branches": []
         },
-        "System.String Unkown.Motherboard.Domain.Catalog.Item::get_Description()": {
+        "System.String Unknown.Motherboard.Domain.Catalog.Item::get_Description()": {
           "Lines": {
             "10": 2
           },
           "Branches": []
         },
-        "System.String Unkown.Motherboard.Domain.Catalog.Item::get_Brand()": {
+        "System.String Unknown.Motherboard.Domain.Catalog.Item::get_Brand()": {
           "Lines": {
             "11": 2
           },
           "Branches": []
         },
-        "System.Decimal Unkown.Motherboard.Domain.Catalog.Item::get_Price()": {
+        "System.Decimal Unknown.Motherboard.Domain.Catalog.Item::get_Price()": {
           "Lines": {
             "12": 2
           },
           "Branches": []
         },
-        "System.Collections.Generic.List`1<Unkown.Motherboard.Domain.Catalog.Rating> Unkown.Motherboard.Domain.Catalog.Item::get_Ratings()": {
+        "System.Collections.Generic.List`1<Unknown.Motherboard.Domain.Catalog.Rating> Unknown.Motherboard.Domain.Catalog.Item::get_Ratings()": {
           "Lines": {
             "13": 0
           },
           "Branches": []
         },
-        "System.Void Unkown.Motherboard.Domain.Catalog.Item::AddRating(Unkown.Motherboard.Domain.Catalog.Rating)": {
+        "System.Void Unknown.Motherboard.Domain.Catalog.Item::AddRating(Unknown.Motherboard.Domain.Catalog.Rating)": {
           "Lines": {
             "44": 0,
             "45": 0,
@@ -96,7 +96,7 @@
           },
           "Branches": []
         },
-        "System.Void Unkown.Motherboard.Domain.Catalog.Item::.ctor(System.String,System.String,System.String,System.Decimal)": {
+        "System.Void Unknown.Motherboard.Domain.Catalog.Item::.ctor(System.String,System.String,System.String,System.Decimal)": {
           "Lines": {
             "15": 1,
             "16": 1,
@@ -204,32 +204,32 @@
       }
     },
     "/Users/matthewmacrides/repos/Unknown-Motherboard-api/backend/Unknown.Motherboard.Domain/Catalog/Rating.cs": {
-      "Unkown.Motherboard.Domain.Catalog.Rating": {
-        "System.Int32 Unkown.Motherboard.Domain.Catalog.Rating::get_Id()": {
+      "Unknown.Motherboard.Domain.Catalog.Rating": {
+        "System.Int32 Unknown.Motherboard.Domain.Catalog.Rating::get_Id()": {
           "Lines": {
             "7": 0
           },
           "Branches": []
         },
-        "System.Int32 Unkown.Motherboard.Domain.Catalog.Rating::get_Star()": {
+        "System.Int32 Unknown.Motherboard.Domain.Catalog.Rating::get_Star()": {
           "Lines": {
             "8": 2
           },
           "Branches": []
         },
-        "System.String Unkown.Motherboard.Domain.Catalog.Rating::get_UserName()": {
+        "System.String Unknown.Motherboard.Domain.Catalog.Rating::get_UserName()": {
           "Lines": {
             "9": 2
           },
           "Branches": []
         },
-        "System.String Unkown.Motherboard.Domain.Catalog.Rating::get_Review()": {
+        "System.String Unknown.Motherboard.Domain.Catalog.Rating::get_Review()": {
           "Lines": {
             "10": 2
           },
           "Branches": []
         },
-        "System.Void Unkown.Motherboard.Domain.Catalog.Rating::.ctor(System.Int32,System.String,System.String)": {
+        "System.Void Unknown.Motherboard.Domain.Catalog.Rating::.ctor(System.Int32,System.String,System.String)": {
           "Lines": {
             "12": 2,
             "13": 2,

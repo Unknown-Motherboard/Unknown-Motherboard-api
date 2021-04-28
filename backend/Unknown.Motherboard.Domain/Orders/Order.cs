@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Unkown.Motherboard.Domain.Orders
+namespace Unknown.Motherboard.Domain.Orders
 {
     public class Order
     {

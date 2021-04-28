@@ -23,10 +23,10 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Unkown.Motherboard.Api/1.0.0": {
+      "Unknown.Motherboard.Api/1.0.0": {
         "dependencies": {
           "Swashbuckle.AspNetCore": "5.6.3",
-          "Unkown.Motherboard.Domain": "1.0.0",
+          "Unknown.Motherboard.Domain": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -312,10 +312,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "Unkown.Motherboard.Api.dll": {}
+          "Unknown.Motherboard.Api.dll": {}
         },
         "compile": {
-          "Unkown.Motherboard.Api.dll": {}
+          "Unknown.Motherboard.Api.dll": {}
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
@@ -377,12 +377,12 @@
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         }
       },
-      "Unkown.Motherboard.Domain/1.0.0": {
+      "Unknown.Motherboard.Domain/1.0.0": {
         "runtime": {
-          "Unkown.Motherboard.Domain.dll": {}
+          "Unknown.Motherboard.Domain.dll": {}
         },
         "compile": {
-          "Unkown.Motherboard.Domain.dll": {}
+          "Unknown.Motherboard.Domain.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2086,7 +2086,7 @@
     }
   },
   "libraries": {
-    "Unkown.Motherboard.Api/1.0.0": {
+    "Unknown.Motherboard.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -2133,7 +2133,7 @@
       "path": "swashbuckle.aspnetcore.swaggerui/5.6.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
     },
-    "Unkown.Motherboard.Domain/1.0.0": {
+    "Unknown.Motherboard.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
